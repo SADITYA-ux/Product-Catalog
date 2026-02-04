@@ -35,7 +35,6 @@ Each product is displayed as a card with image, name, brand, price, and rating. 
 
 ### 1. Create the project using Vite
 
-```bash
 npm create vite@latest product-catalog
 Choose React and JavaScript/TypeScript as needed
 
@@ -59,4 +58,3 @@ Open the URL shown in the terminal (usually http://localhost:5173)
 ![Product Cards ](public/Ss/ProductCard.png)
 ![Filters & Sorting](public/Ss/Filters%20and%20Sorting.png)
 ![Product Modal & Detail](public/Ss/ProductModal%20and%20details.png)
-```
